@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" fill="none" role="img" aria-label="Technical credits — languages, interface, systems, security and AI">
+<title>Technical credits — languages, interface, systems, security and AI</title>
+<defs>
+
+</defs>
+
+<text x="0" y="26" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="10.5" letter-spacing="4" fill="#f0c05a">TECHNICAL CREDITS</text>
+<text x="1200" y="26" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="8.5" letter-spacing="2.4" fill="#8a7c68">CAST &amp; CREW · ONE PERSON · NO SHORTCUTS</text>
+<path d="M0 44H1200" stroke="#2b2319" stroke-width="1"/>
+<g transform="translate(0 0)">
+<text x="0" y="70" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="8.5" letter-spacing="2.4" fill="#f0c05a" opacity="0.8">01</text>
+<text x="0" y="98" font-family="Georgia,'Times New Roman',serif" font-size="23" font-style="italic" fill="#f7f2e7">LANGUAGES</text>
+<rect x="0" y="110" width="34" height="1.5" fill="#f0c05a"><animate attributeName="width" from="0" to="34" dur="1.1s" begin="0.1s" fill="freeze"/></rect>
+<g transform="translate(0 138)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.4s" begin="0s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">TypeScript</text>
+</g>
+<g transform="translate(0 162)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.6s" begin="-0.4s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">JavaScript</text>
+</g>
+<g transform="translate(0 186)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.8s" begin="-0.8s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Python</text>
+</g>
+<g transform="translate(0 210)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4s" begin="-1.2s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">HTML + CSS</text>
+</g>
+<g transform="translate(0 234)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.2s" begin="-1.6s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">SQL</text>
+</g>
+<g transform="translate(0 258)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.4s" begin="-2s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Bash</text>
+</g>
+<g transform="translate(0 282)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.6s" begin="-2.4s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">PowerShell</text>
+</g>
+<path d="M286 58V370" stroke="#2b2319" stroke-width="1"/>
+</g>
+<g transform="translate(305 0)">
+<text x="0" y="70" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="8.5" letter-spacing="2.4" fill="#f0c05a" opacity="0.8">02</text>
+<text x="0" y="98" font-family="Georgia,'Times New Roman',serif" font-size="23" font-style="italic" fill="#f7f2e7">INTERFACE</text>
+<rect x="0" y="110" width="34" height="1.5" fill="#f0c05a"><animate attributeName="width" from="0" to="34" dur="1.1s" begin="0.18s" fill="freeze"/></rect>
+<g transform="translate(0 138)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.4s" begin="0s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">React 19</text>
+</g>
+<g transform="translate(0 162)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.6s" begin="-0.4s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Vite</text>
+</g>
+<g transform="translate(0 186)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.8s" begin="-0.8s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Three.js</text>
+</g>
+<g transform="translate(0 210)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4s" begin="-1.2s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Framer Motion</text>
+</g>
+<g transform="translate(0 234)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.2s" begin="-1.6s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Tailwind CSS</text>
+</g>
+<g transform="translate(0 258)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.4s" begin="-2s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">WebGL</text>
+</g>
+<g transform="translate(0 282)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.6s" begin="-2.4s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Accessibility</text>
+</g>
+<path d="M286 58V370" stroke="#2b2319" stroke-width="1"/>
+</g>
+<g transform="translate(610 0)">
+<text x="0" y="70" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="8.5" letter-spacing="2.4" fill="#f0c05a" opacity="0.8">03</text>
+<text x="0" y="98" font-family="Georgia,'Times New Roman',serif" font-size="23" font-style="italic" fill="#f7f2e7">SYSTEMS</text>
+<rect x="0" y="110" width="34" height="1.5" fill="#f0c05a"><animate attributeName="width" from="0" to="34" dur="1.1s" begin="0.26s" fill="freeze"/></rect>
+<g transform="translate(0 138)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.4s" begin="0s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Node.js</text>
+</g>
+<g transform="translate(0 162)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.6s" begin="-0.4s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Fastify</text>
+</g>
+<g transform="translate(0 186)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.8s" begin="-0.8s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">PostgreSQL</text>
+</g>
+<g transform="translate(0 210)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4s" begin="-1.2s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Cloudflare Workers</text>
+</g>
+<g transform="translate(0 234)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.2s" begin="-1.6s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">D1</text>
+</g>
+<g transform="translate(0 258)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.4s" begin="-2s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">WebRTC</text>
+</g>
+<g transform="translate(0 282)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.6s" begin="-2.4s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Docker</text>
+</g>
+<g transform="translate(0 306)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.8s" begin="-2.8s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Linux</text>
+</g>
+<g transform="translate(0 330)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="5s" begin="-3.2s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Proxmox</text>
+</g>
+<g transform="translate(0 354)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="5.2s" begin="-3.6s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Tailscale</text>
+</g>
+<path d="M286 58V370" stroke="#2b2319" stroke-width="1"/>
+</g>
+<g transform="translate(915 0)">
+<text x="0" y="70" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="8.5" letter-spacing="2.4" fill="#f0c05a" opacity="0.8">04</text>
+<text x="0" y="98" font-family="Georgia,'Times New Roman',serif" font-size="23" font-style="italic" fill="#f7f2e7">SECURITY &amp; AI</text>
+<rect x="0" y="110" width="34" height="1.5" fill="#f0c05a"><animate attributeName="width" from="0" to="34" dur="1.1s" begin="0.34s" fill="freeze"/></rect>
+<g transform="translate(0 138)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.4s" begin="0s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Burp Suite</text>
+</g>
+<g transform="translate(0 162)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.6s" begin="-0.4s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Nmap</text>
+</g>
+<g transform="translate(0 186)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="3.8s" begin="-0.8s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Ghidra</text>
+</g>
+<g transform="translate(0 210)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4s" begin="-1.2s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">E2E encryption</text>
+</g>
+<g transform="translate(0 234)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.2s" begin="-1.6s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Reverse engineering</text>
+</g>
+<g transform="translate(0 258)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.4s" begin="-2s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">LLM applications</text>
+</g>
+<g transform="translate(0 282)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.6s" begin="-2.4s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">OpenRouter</text>
+</g>
+<g transform="translate(0 306)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="4.8s" begin="-2.8s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Gemini</text>
+</g>
+<g transform="translate(0 330)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="5s" begin="-3.2s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Anthropic</text>
+</g>
+<g transform="translate(0 354)">
+<rect x="-9" y="-3" width="3" height="3" fill="#f0c05a" opacity="0.8"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="5.2s" begin="-3.6s" repeatCount="indefinite"/></rect>
+<text x="0" y="3" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="12.5" letter-spacing="0.4" fill="#c2b6a3">Ollama</text>
+</g>
+
+</g>
+<path d="M0 388H1200" stroke="#2b2319" stroke-width="1"/>
+<g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="8.5" letter-spacing="2.2" fill="#8a7c68">
+<text x="0" y="410">PICKED BY HAND. EARNED IN PRODUCTION.</text>
+<text x="600" y="410" text-anchor="middle" opacity="0.7">NO TEMPLATES · NO SUBSCRIPTIONS</text>
+<text x="1200" y="410" text-anchor="end">AADRIT · MMXXVI</text>
+</g>
+</svg>

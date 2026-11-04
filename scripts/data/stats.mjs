@@ -8,7 +8,7 @@ const root = join(dirname(fileURLToPath(import.meta.url)), '..', '..');
 const cachePath = join(root, 'data', 'cache.json');
 
 const FALLBACK = {
-  user: 'Aadrit1234',
+  user: 'AadritIND',
   name: 'Aadrit',
   followers: 0,
   publicRepos: 7,
@@ -75,8 +75,8 @@ export function stats({ refresh = false } = {}) {
   }
   try {
     const u = gh('user');
-    const reposMeta = gh('users/Aadrit1234/repos?per_page=100&sort=updated');
-    const own = reposMeta.filter((r) => !r.fork && r.name !== 'Aadrit1234');
+    const reposMeta = gh('users/AadritIND/repos?per_page=100&sort=updated');
+    const own = reposMeta.filter((r) => !r.fork && r.name !== 'AadritIND');
 
     const langMap = new Map();
     const repoLangs = new Map();
@@ -84,7 +84,7 @@ export function stats({ refresh = false } = {}) {
     for (const r of own) {
       totalStars += r.stargazers_count || 0;
       try {
-        const langs = gh(`repos/Aadrit1234/${r.name}/languages`);
+        const langs = gh(`repos/AadritIND/${r.name}/languages`);
         const list = Object.entries(langs)
           .map(([name, bytes]) => ({ name, size: bytes }))
           .sort((a, b) => b.size - a.size);
@@ -95,7 +95,7 @@ export function stats({ refresh = false } = {}) {
       }
     }
 
-    const contributions = collectContributions(own.map((r) => `Aadrit1234/${r.name}`));
+    const contributions = collectContributions(own.map((r) => `AadritIND/${r.name}`));
     const commits = contributions.reduce((a, c) => a + c.count, 0);
 
     const languages = [...langMap.entries()]

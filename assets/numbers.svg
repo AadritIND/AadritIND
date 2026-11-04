@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-label="Box office — commits, repositories, live builds and languages">
+<title>Box office — commits, repositories, live builds and languages</title>
+<defs>
+<linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f0c05a" stop-opacity="0"/><stop offset="0.5" stop-color="#f0c05a" stop-opacity="0.07"/><stop offset="1" stop-color="#f0c05a" stop-opacity="0"/></linearGradient>
+<filter id="ng" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="3" result="b"/></filter>
+</defs>
+
+<text x="0" y="26" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="10.5" letter-spacing="4" fill="#f0c05a">BOX OFFICE</text>
+<text x="1200" y="26" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="8.5" letter-spacing="2.4" fill="#8a7c68">PULLED FROM THE GITHUB API · BAKED AT BUILD TIME</text>
+<path d="M0 44H1200" stroke="#2b2319" stroke-width="1"/>
+<g transform="translate(0 0)">
+<text x="0" y="152" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="94" font-weight="800" letter-spacing="-2" fill="#f7f2e7">207</text>
+<rect x="0" y="169" width="30" height="2" fill="#f0c05a"><animate attributeName="width" from="0" to="30" dur="1.2s" begin="0.1s" fill="freeze"/></rect>
+<text x="0" y="196" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="10" letter-spacing="3.2" fill="#f0c05a">COMMITS</text>
+<text x="0" y="220" font-family="Georgia,'Times New Roman',serif" font-size="15" font-style="italic" fill="#c2b6a3">Every frame counts.</text>
+<text x="0" y="244" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="8" letter-spacing="2.2" fill="#8a7c68">SINCE JUL 2025</text>
+<path d="M270 78V250" stroke="#2b2319" stroke-width="1"/>
+</g>
+<g transform="translate(300 0)">
+<text x="0" y="152" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="94" font-weight="800" letter-spacing="-2" fill="#f7f2e7">10</text>
+<rect x="0" y="169" width="30" height="2" fill="#f0c05a"><animate attributeName="width" from="0" to="30" dur="1.2s" begin="0.18s" fill="freeze"/></rect>
+<text x="0" y="196" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="10" letter-spacing="3.2" fill="#f0c05a">PUBLIC REPOS</text>
+<text x="0" y="220" font-family="Georgia,'Times New Roman',serif" font-size="15" font-style="italic" fill="#c2b6a3">Built in the open.</text>
+<text x="0" y="244" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="8" letter-spacing="2.2" fill="#8a7c68">ON GITHUB</text>
+<path d="M270 78V250" stroke="#2b2319" stroke-width="1"/>
+</g>
+<g transform="translate(600 0)">
+<text x="0" y="152" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="94" font-weight="800" letter-spacing="-2" fill="#f7f2e7">8</text>
+<rect x="0" y="169" width="30" height="2" fill="#f0c05a"><animate attributeName="width" from="0" to="30" dur="1.2s" begin="0.26s" fill="freeze"/></rect>
+<text x="0" y="196" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="10" letter-spacing="3.2" fill="#f0c05a">LIVE BUILDS</text>
+<text x="0" y="220" font-family="Georgia,'Times New Roman',serif" font-size="15" font-style="italic" fill="#c2b6a3">Deployed, not described.</text>
+<text x="0" y="244" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="8" letter-spacing="2.2" fill="#8a7c68">CLICKABLE</text>
+<path d="M270 78V250" stroke="#2b2319" stroke-width="1"/>
+</g>
+<g transform="translate(900 0)">
+<text x="0" y="152" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="94" font-weight="800" letter-spacing="-2" fill="#f7f2e7">9</text>
+<rect x="0" y="169" width="30" height="2" fill="#f0c05a"><animate attributeName="width" from="0" to="30" dur="1.2s" begin="0.34s" fill="freeze"/></rect>
+<text x="0" y="196" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="10" letter-spacing="3.2" fill="#f0c05a">LANGUAGES</text>
+<text x="0" y="220" font-family="Georgia,'Times New Roman',serif" font-size="15" font-style="italic" fill="#c2b6a3">One stack, many dialects.</text>
+<text x="0" y="244" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="8" letter-spacing="2.2" fill="#8a7c68">ACROSS THE WORK</text>
+
+</g>
+<rect x="-220" y="60" width="220" height="200" fill="url(#shine)"><animateTransform attributeName="transform" type="translate" from="0 0" to="1420 0" dur="12s" repeatCount="indefinite"/></rect>
+<path d="M0 266H1200" stroke="#2b2319" stroke-width="1"/>
+<g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="8" letter-spacing="2.2" fill="#8a7c68">
+<text x="0" y="287">4 STARS ACROSS PUBLIC WORK</text>
+<text x="600" y="287" text-anchor="middle" opacity="0.75">UPDATED NOV 2026</text>
+<text x="1200" y="287" text-anchor="end">AADRITIND · MMXXVI</text>
+</g>
+</svg>

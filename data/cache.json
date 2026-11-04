@@ -1,33 +1,33 @@
 {
-  "user": "Aadrit1234",
+  "user": "AadritIND",
   "name": "Aadrit",
   "bio": "I'm a Full-Stack Developer, Cybersecurity & Ethical Hacking enthusiast, and AI/ML explorer passionate about understanding technology deeply.",
   "location": "India",
   "followers": 0,
-  "publicRepos": 7,
-  "totalStars": 3,
-  "commits": 172,
+  "publicRepos": 10,
+  "totalStars": 4,
+  "commits": 207,
   "createdAt": "2025-07-01",
   "languages": [
     {
       "name": "JavaScript",
-      "bytes": 1414904
-    },
-    {
-      "name": "HTML",
-      "bytes": 670453
-    },
-    {
-      "name": "CSS",
-      "bytes": 377067
+      "bytes": 1913312
     },
     {
       "name": "TypeScript",
-      "bytes": 283256
+      "bytes": 1257422
+    },
+    {
+      "name": "HTML",
+      "bytes": 824341
+    },
+    {
+      "name": "CSS",
+      "bytes": 701724
     },
     {
       "name": "Python",
-      "bytes": 8553
+      "bytes": 24647
     },
     {
       "name": "Makefile",
@@ -40,9 +40,144 @@
     {
       "name": "Shell",
       "bytes": 1501
+    },
+    {
+      "name": "PowerShell",
+      "bytes": 808
     }
   ],
   "repos": [
+    {
+      "name": "Aegis",
+      "desc": "Aegis — a liquid-glass desktop vault for passwords, API keys and secrets.",
+      "lang": "TypeScript",
+      "langs": [
+        {
+          "name": "TypeScript",
+          "size": 437931
+        },
+        {
+          "name": "CSS",
+          "size": 279943
+        },
+        {
+          "name": "JavaScript",
+          "size": 58914
+        },
+        {
+          "name": "Python",
+          "size": 16094
+        },
+        {
+          "name": "HTML",
+          "size": 3227
+        }
+      ],
+      "stars": 1,
+      "forks": 0,
+      "demo": "",
+      "updated": "2026-11-03"
+    },
+    {
+      "name": "Formula-1",
+      "desc": "APEX Race Culture - multi-backend Formula 1 fan site",
+      "lang": "JavaScript",
+      "langs": [
+        {
+          "name": "JavaScript",
+          "size": 456168
+        },
+        {
+          "name": "HTML",
+          "size": 73479
+        },
+        {
+          "name": "PowerShell",
+          "size": 808
+        }
+      ],
+      "stars": 0,
+      "forks": 0,
+      "demo": "https://formularace.vercel.app",
+      "updated": "2026-10-27"
+    },
+    {
+      "name": "Portfolio",
+      "desc": null,
+      "lang": "TypeScript",
+      "langs": [
+        {
+          "name": "TypeScript",
+          "size": 305410
+        },
+        {
+          "name": "HTML",
+          "size": 114774
+        },
+        {
+          "name": "JavaScript",
+          "size": 26453
+        },
+        {
+          "name": "CSS",
+          "size": 16140
+        }
+      ],
+      "stars": 0,
+      "forks": 0,
+      "demo": "https://aadrit-ind.vercel.app",
+      "updated": "2026-10-20"
+    },
+    {
+      "name": "focusFlow",
+      "desc": "A shared study timer: permanent room codes, live multi-device sync, and history that keeps every session. Cloudflare Workers + D1 + React.",
+      "lang": "TypeScript",
+      "langs": [
+        {
+          "name": "TypeScript",
+          "size": 230825
+        },
+        {
+          "name": "CSS",
+          "size": 41582
+        },
+        {
+          "name": "HTML",
+          "size": 40631
+        },
+        {
+          "name": "JavaScript",
+          "size": 20267
+        }
+      ],
+      "stars": 0,
+      "forks": 0,
+      "demo": "https://focussf.vercel.app",
+      "updated": "2026-10-14"
+    },
+    {
+      "name": "FormulaVault",
+      "desc": "Offline-first study app for CBSE 11/12 and JEE - 833 formula cards, typo-tolerant search, AI tutor on your own API key.",
+      "lang": "HTML",
+      "langs": [
+        {
+          "name": "HTML",
+          "size": 489824
+        },
+        {
+          "name": "JavaScript",
+          "size": 371678
+        },
+        {
+          "name": "CSS",
+          "size": 47790
+        }
+      ],
+      "stars": 0,
+      "forks": 0,
+      "demo": "https://formulav.vercel.app",
+      "updated": "2026-10-10"
+    },
     {
       "name": "filemorph",
       "desc": "Free online file converter & audio transcriber. Documents, images and audio converted with full content preservation (LibreOffice, pdf2docx, Sharp).",
@@ -73,29 +208,6 @@
       "forks": 0,
       "demo": "https://filemorph-dusky.vercel.app",
       "updated": "2026-09-29"
-    },
-    {
-      "name": "FormulaVault",
-      "desc": "Offline-first study app for CBSE 11/12 and JEE - 833 formula cards, typo-tolerant search, AI tutor on your own API key.",
-      "lang": "HTML",
-      "langs": [
-        {
-          "name": "HTML",
-          "size": 568047
-        },
-        {
-          "name": "JavaScript",
-          "size": 435072
-        },
-        {
-          "name": "CSS",
-          "size": 60798
-        }
-      ],
-      "stars": 0,
-      "forks": 0,
-      "demo": "https://formulav.vercel.app",
-      "updated": "2026-09-26"
     },
     {
       "name": "printbridge",
@@ -177,30 +289,56 @@
       "forks": 0,
       "demo": "https://conduit-liard.vercel.app",
       "updated": "2026-08-18"
-    },
-    {
-      "name": "blu-blu",
-      "desc": null,
-      "lang": null,
-      "langs": [],
-      "stars": 0,
-      "forks": 0,
-      "demo": "",
-      "updated": "2026-08-11"
     }
   ],
   "contributions": [
     {
-      "date": "2026-08-26",
-      "count": 20
+      "date": "2026-11-03",
+      "count": 5
     },
     {
-      "date": "2026-08-11",
-      "count": 20
+      "date": "2026-10-27",
+      "count": 1
     },
     {
-      "date": "2026-08-08",
-      "count": 9
+      "date": "2026-10-23",
+      "count": 1
+    },
+    {
+      "date": "2026-10-18",
+      "count": 3
+    },
+    {
+      "date": "2026-10-16",
+      "count": 1
+    },
+    {
+      "date": "2026-10-15",
+      "count": 3
+    },
+    {
+      "date": "2026-10-14",
+      "count": 13
+    },
+    {
+      "date": "2026-10-20",
+      "count": 1
+    },
+    {
+      "date": "2026-10-11",
+      "count": 4
+    },
+    {
+      "date": "2026-10-06",
+      "count": 1
+    },
+    {
+      "date": "2026-10-13",
+      "count": 3
+    },
+    {
+      "date": "2026-10-10",
+      "count": 4
     },
     {
       "date": "2026-09-23",
@@ -217,6 +355,18 @@
     {
       "date": "2026-09-18",
       "count": 13
+    },
+    {
+      "date": "2026-08-26",
+      "count": 20
+    },
+    {
+      "date": "2026-08-11",
+      "count": 15
+    },
+    {
+      "date": "2026-08-08",
+      "count": 9
     },
     {
       "date": "2026-09-29",
@@ -255,6 +405,6 @@
       "count": 4
     }
   ],
-  "fetchedAt": "2026-09-29T16:46:10.248Z",
+  "fetchedAt": "2026-11-04T05:25:23.750Z",
   "stale": false
 }

@@ -24,14 +24,20 @@ for (const { file, src } of DATA) {
   const vb = (res.viewBox || '').split(/[ ,]+/).map(Number);
   if (vb.length === 4) {
     doc.querySelectorAll('text').forEach((t) => {
-      if (t.closest('clipPath') || t.closest('mask')) return; // visually clipped, cannot overflow
-      const cs = getComputedStyle(t);
-      const fs = parseFloat(cs.fontSize) || parseFloat(t.getAttribute('font-size')) || 0;
-      const ls = parseFloat(cs.letterSpacing) || 0;
+      if (t.closest('clipPath') || t.closest('mask') || t.closest('[clip-path]')) return; // visually clipped, cannot overflow
+      const inherit = (el, name) => {
+        for (let n = el; n && n.getAttribute; n = n.parentElement) {
+          const v = n.getAttribute(name);
+          if (v != null) return v;
+        }
+        return null;
+      };
+      const fs = parseFloat(inherit(t, 'font-size')) || 0;
+      const ls = parseFloat(inherit(t, 'letter-spacing')) || 0;
       let approx = 0;
       for (const ch of (t.textContent || '')) approx += (ch === ' ' ? fs * 0.32 : fs * 0.6) + ls;
       const x = parseFloat(t.getAttribute('x') || 0);
-      const anchor = cs.textAnchor && cs.textAnchor !== 'start' ? cs.textAnchor : t.getAttribute('text-anchor') || 'start';
+      const anchor = inherit(t, 'text-anchor') || 'start';
       let left = anchor === 'middle' ? x - approx / 2 : anchor === 'end' ? x - approx : x;
       if (!t.querySelector('tspan[x]') && (left < -3 || left + approx > vb[2] + 3)) res.overflow.push((t.textContent || '').slice(0, 30) + ' [' + Math.round(left) + '..' + Math.round(left + approx) + '] w=' + vb[2]);
     });

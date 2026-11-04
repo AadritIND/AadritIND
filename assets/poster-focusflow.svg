@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="500" viewBox="0 0 560 500" fill="none" role="img" aria-label="focusFlow — Study together across devices. Keep the history.">
+<title>focusFlow — Study together across devices. Keep the history.</title>
+<defs>
+<linearGradient id="aBg" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0" stop-color="#0c0a07"/><stop offset="1" stop-color="#070605"/></linearGradient>
+<radialGradient id="aHaze" cx="0.5" cy="0.5" r="0.55"><stop offset="0" stop-color="#f0c05a" stop-opacity="0.16"/><stop offset="0.55" stop-color="#f0c05a" stop-opacity="0.05"/><stop offset="1" stop-color="#f0c05a" stop-opacity="0"/></radialGradient>
+<linearGradient id="aGold" x1="0" y1="0" x2="1" y2="0.4"><stop offset="0" stop-color="#f0c05a"/><stop offset="1" stop-color="#e2603a"/></linearGradient>
+<linearGradient id="aPaper" x1="0" y1="0" x2="0.6" y2="1"><stop offset="0" stop-color="#f7f2e7" stop-opacity="0.16"/><stop offset="1" stop-color="#f7f2e7" stop-opacity="0.03"/></linearGradient>
+<linearGradient id="aFade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0a0806" stop-opacity="0"/><stop offset="1" stop-color="#0a0806" stop-opacity="0.94"/></linearGradient>
+<linearGradient id="aScan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f0c05a" stop-opacity="0"/><stop offset="0.5" stop-color="#f0c05a" stop-opacity="0.16"/><stop offset="1" stop-color="#f0c05a" stop-opacity="0"/></linearGradient>
+<filter id="aGlow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="artClip"><rect x="1" y="1" width="558" height="272"/></clipPath>
+</defs>
+
+<rect x="0.5" y="0.5" width="559" height="499" fill="#0b0907" stroke="#2b2319"/>
+<g clip-path="url(#artClip)">
+<rect x="1" y="1" width="558" height="272" fill="url(#aBg)"/>
+<ellipse cx="198" cy="136" rx="150" ry="120" fill="url(#aHaze)"/><circle cx="198" cy="136" r="82" stroke="#f0c05a" stroke-opacity="0.16" stroke-width="1"/><path d="M198 48L198 40" stroke="#f0c05a" stroke-width="1.4" opacity="0.5"/><path d="M213.8 46.38L214.67 41.46" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M229.12 50.49L230.83 45.79" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M242 59.79L246 52.86" stroke="#f0c05a" stroke-width="1.4" opacity="0.5"/><path d="M256.49 66.29L259.71 62.46" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M267.71 77.51L271.54 74.29" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M274.21 92L281.14 88" stroke="#f0c05a" stroke-width="1.4" opacity="0.5"/><path d="M283.51 104.88L288.21 103.17" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M287.62 120.2L292.54 119.33" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M286 136L294 136" stroke="#f0c05a" stroke-width="1.4" opacity="0.5"/><path d="M287.62 151.8L292.54 152.67" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M283.51 167.12L288.21 168.83" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M274.21 180L281.14 184" stroke="#f0c05a" stroke-width="1.4" opacity="0.5"/><path d="M267.71 194.49L271.54 197.71" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M256.49 205.71L259.71 209.54" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M242 212.21L246 219.14" stroke="#f0c05a" stroke-width="1.4" opacity="0.5"/><path d="M229.12 221.51L230.83 226.21" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M213.8 225.62L214.67 230.54" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M198 224L198 232" stroke="#f0c05a" stroke-width="1.4" opacity="0.5"/><path d="M182.2 225.62L181.33 230.54" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M166.88 221.51L165.17 226.21" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M154 212.21L150 219.14" stroke="#f0c05a" stroke-width="1.4" opacity="0.5"/><path d="M139.51 205.71L136.29 209.54" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M128.29 194.49L124.46 197.71" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M121.79 180L114.86 184" stroke="#f0c05a" stroke-width="1.4" opacity="0.5"/><path d="M112.49 167.12L107.79 168.83" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M108.38 151.8L103.46 152.67" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M110 136L102 136" stroke="#f0c05a" stroke-width="1.4" opacity="0.5"/><path d="M108.38 120.2L103.46 119.33" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M112.49 104.88L107.79 103.17" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M121.79 92L114.86 88" stroke="#f0c05a" stroke-width="1.4" opacity="0.5"/><path d="M128.29 77.51L124.46 74.29" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M139.51 66.29L136.29 62.46" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M154 59.79L150 52.86" stroke="#f0c05a" stroke-width="1.4" opacity="0.5"/><path d="M166.88 50.49L165.17 45.79" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M182.2 46.38L181.33 41.46" stroke="#f0c05a" stroke-width="1" opacity="0.24"/><path d="M198 54A82 82 0 1 1 116.45 127.43" stroke="#f0c05a" stroke-width="2.6" stroke-linecap="round"/><path d="M198 54A82 82 0 1 1 116.45 127.43" stroke="#ffd76e" stroke-width="4" stroke-linecap="round" opacity="0.35" filter="url(#aGlow)"/><circle cx="116.45" cy="127.43" r="4" fill="#ffd76e" filter="url(#aGlow)"><animate attributeName="r" values="3.2;5;3.2" dur="2.8s" repeatCount="indefinite"/></circle><text x="198" y="146" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="31" letter-spacing="1" fill="#f7f2e7">25:00</text><text x="198" y="167" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="7.5" letter-spacing="2.2" fill="#f0c05a">FOCUS ROOM</text><g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="7.5" letter-spacing="1.8" fill="#f0c05a">
+<text x="334" y="74">ROOM 4F2A</text>
+<circle cx="334" cy="88" r="2" fill="#f0c05a"/><text x="343" y="91" fill="#f7f2e7" opacity="0.55">3 DEVICES</text>
+</g><path d="M334 112H524" stroke="#f0c05a" stroke-width="1" opacity="0.18"/><rect x="334" y="218" width="7" height="10" fill="#f0c05a" opacity="0.27"/><rect x="353" y="206" width="7" height="22" fill="#f0c05a" opacity="0.39"/><rect x="372" y="213" width="7" height="15" fill="#f0c05a" opacity="0.32"/><rect x="391" y="194" width="7" height="34" fill="#f0c05a" opacity="0.52"/><rect x="410" y="202" width="7" height="26" fill="#f0c05a" opacity="0.44"/><rect x="429" y="184" width="7" height="44" fill="#f0c05a" opacity="0.63"/><rect x="448" y="197" width="7" height="31" fill="#f0c05a" opacity="0.49"/><rect x="467" y="176" width="7" height="52" fill="#f0c05a" opacity="0.71"/><rect x="486" y="190" width="7" height="38" fill="#f0c05a" opacity="0.56"/><rect x="505" y="208" width="7" height="20" fill="#f0c05a" opacity="0.37"/><path d="M334 229H524" stroke="#f0c05a" stroke-width="1" opacity="0.3"/><text x="334" y="246" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="7.5" letter-spacing="1.8" fill="#f7f2e7" opacity="0.4">SESSION HISTORY</text><circle cx="392" cy="84" r="1.5" fill="#f0c05a" opacity="0.6"><animate attributeName="opacity" values="0.6;0.12;0.6" dur="4.6s" begin="0s" repeatCount="indefinite"/></circle><circle cx="474" cy="62" r="1.2" fill="#f0c05a" opacity="0.5"><animate attributeName="opacity" values="0.5;0.1;0.5" dur="3.8s" begin="-1s" repeatCount="indefinite"/></circle>
+<rect x="1" y="220" width="558" height="52" fill="url(#aFade)"/>
+<g opacity="0.9"><g><rect x="-70" y="1" width="70" height="272" fill="url(#aScan)"/><animateTransform attributeName="transform" type="translate" from="0 0" to="630 0" dur="17s" repeatCount="indefinite"/></g></g>
+<text x="546" y="252" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="198" font-weight="800" fill="#f0c05a" opacity="0.055">02</text>
+<g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="9" letter-spacing="2.2">
+<text x="20" y="30" fill="#f0c05a">02 / FOCUSFLOW</text>
+<text x="540" y="30" fill="#f7f2e7" opacity="0.5" text-anchor="end">2026</text>
+</g>
+<g transform="translate(40 240)">
+<circle cx="0" cy="0" r="14" stroke="#f0c05a" stroke-width="1.1" fill="#0a0806" fill-opacity="0.75"/>
+<path d="M-3.4 -6L6 0L-3.4 6Z" fill="#f0c05a"/>
+<circle cx="0" cy="0" r="19" stroke="#f0c05a" stroke-width="1" opacity="0.18"><animate attributeName="opacity" values="0.1;0.32;0.1" dur="3.4s" repeatCount="indefinite"/></circle>
+</g>
+</g>
+<path d="M0 272H560" stroke="#2b2319" stroke-width="1" opacity="0.9"/>
+
+<rect x="0" y="0" width="560" height="2" fill="#f0c05a">
+<animate attributeName="width" from="0" to="560" dur="1.5s" fill="freeze"/>
+</rect>
+
+<g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace">
+<g transform="translate(24 292)">
+<rect x="0" y="0" width="98.6" height="22" rx="11" fill="#f0c05a" fill-opacity="0.08" stroke="#f0c05a" stroke-opacity="0.45"/>
+<circle cx="13" cy="11" r="2.6" fill="#f0c05a"><animate attributeName="opacity" values="1;0.25;1" dur="2.6s" repeatCount="indefinite"/></circle>
+<text x="23" y="14.5" font-size="8" letter-spacing="1.7" fill="#f0c05a">IN THEATERS</text>
+</g>
+<g font-size="9" letter-spacing="1.4" fill="#c2b6a3" text-anchor="end">
+<text x="536" y="307">TypeScript</text>
+</g>
+</g>
+
+<text x="24" y="356" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="38" font-weight="800" letter-spacing="0.3" fill="#f7f2e7">focusFlow</text>
+<g font-family="Georgia,'Times New Roman',serif" font-size="16.5" font-style="italic" fill="#c2b6a3">
+<text x="24" y="386">Study together across devices. Keep the</text>
+<text x="24" y="408">history.</text>
+</g>
+
+<path d="M24 430H536" stroke="#2b2319" stroke-width="1"/>
+<g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="9" letter-spacing="1.6">
+<text x="24" y="454" fill="#8a7c68">AADRIT PICTURES · FILE 02 / 06</text>
+<text x="536" y="454" fill="#f0c05a" text-anchor="end" letter-spacing="2">VIEW CASE ↗</text>
+</g>
+<g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="7.5" letter-spacing="2.2" fill="#8a7c68" opacity="0.6">
+<text x="24" y="481">PRODUCTIVITY · REALTIME</text>
+<text x="536" y="481" text-anchor="end">2026 · COLOR</text>
+</g>
+</svg>

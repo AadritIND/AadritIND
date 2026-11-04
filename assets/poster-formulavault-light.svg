@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="500" viewBox="0 0 560 500" fill="none" role="img" aria-label="FormulaVault — 833 formulas. Zero signal required.">
+<title>FormulaVault — 833 formulas. Zero signal required.</title>
+<defs>
+<linearGradient id="aBg" x1="0" y1="0" x2="0.4" y2="1"><stop offset="0" stop-color="#0c0a07"/><stop offset="1" stop-color="#070605"/></linearGradient>
+<radialGradient id="aHaze" cx="0.5" cy="0.5" r="0.55"><stop offset="0" stop-color="#f0c05a" stop-opacity="0.16"/><stop offset="0.55" stop-color="#f0c05a" stop-opacity="0.05"/><stop offset="1" stop-color="#f0c05a" stop-opacity="0"/></radialGradient>
+<linearGradient id="aGold" x1="0" y1="0" x2="1" y2="0.4"><stop offset="0" stop-color="#f0c05a"/><stop offset="1" stop-color="#e2603a"/></linearGradient>
+<linearGradient id="aPaper" x1="0" y1="0" x2="0.6" y2="1"><stop offset="0" stop-color="#f7f2e7" stop-opacity="0.16"/><stop offset="1" stop-color="#f7f2e7" stop-opacity="0.03"/></linearGradient>
+<linearGradient id="aFade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0a0806" stop-opacity="0"/><stop offset="1" stop-color="#0a0806" stop-opacity="0.94"/></linearGradient>
+<linearGradient id="aScan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f0c05a" stop-opacity="0"/><stop offset="0.5" stop-color="#f0c05a" stop-opacity="0.16"/><stop offset="1" stop-color="#f0c05a" stop-opacity="0"/></linearGradient>
+<filter id="aGlow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="artClip"><rect x="1" y="1" width="558" height="272"/></clipPath>
+</defs>
+
+<rect x="0.5" y="0.5" width="559" height="499" fill="#fffaf0" stroke="#d6c8ae"/>
+<g clip-path="url(#artClip)">
+<rect x="1" y="1" width="558" height="272" fill="url(#aBg)"/>
+<ellipse cx="230" cy="136" rx="170" ry="120" fill="url(#aHaze)"/><path d="M50 36V236" stroke="#f0c05a" stroke-width="1" opacity="0.055"/><path d="M86 36V236" stroke="#f0c05a" stroke-width="1" opacity="0.055"/><path d="M122 36V236" stroke="#f0c05a" stroke-width="1" opacity="0.055"/><path d="M158 36V236" stroke="#f0c05a" stroke-width="1" opacity="0.055"/><path d="M194 36V236" stroke="#f0c05a" stroke-width="1" opacity="0.055"/><path d="M230 36V236" stroke="#f0c05a" stroke-width="1" opacity="0.055"/><path d="M266 36V236" stroke="#f0c05a" stroke-width="1" opacity="0.055"/><path d="M302 36V236" stroke="#f0c05a" stroke-width="1" opacity="0.055"/><path d="M338 36V236" stroke="#f0c05a" stroke-width="1" opacity="0.055"/><path d="M374 36V236" stroke="#f0c05a" stroke-width="1" opacity="0.055"/><path d="M410 36V236" stroke="#f0c05a" stroke-width="1" opacity="0.055"/><path d="M50 36H410" stroke="#f0c05a" stroke-width="1" opacity="0.055"/><path d="M50 72H410" stroke="#f0c05a" stroke-width="1" opacity="0.055"/><path d="M50 108H410" stroke="#f0c05a" stroke-width="1" opacity="0.055"/><path d="M50 144H410" stroke="#f0c05a" stroke-width="1" opacity="0.055"/><path d="M50 180H410" stroke="#f0c05a" stroke-width="1" opacity="0.055"/><path d="M50 216H410" stroke="#f0c05a" stroke-width="1" opacity="0.055"/><ellipse cx="230" cy="136" rx="116" ry="38" transform="rotate(-18 230 136)" stroke="#f0c05a" stroke-width="1" opacity="0.34" stroke-dasharray="2 7"/><ellipse cx="230" cy="136" rx="154" ry="54" transform="rotate(12 230 136)" stroke="#f0c05a" stroke-width="1" opacity="0.2" stroke-dasharray="2 7"/><ellipse cx="230" cy="136" rx="84" ry="26" transform="rotate(-44 230 136)" stroke="#f0c05a" stroke-width="1" opacity="0.28" stroke-dasharray="2 7"/><g transform="translate(230 136)">
+<g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="52s" repeatCount="indefinite"/>
+<text x="0" y="-37" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="27" font-style="italic" fill="#f0c05a">∫</text>
+<text x="108" y="8" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="24" font-style="italic" fill="#ffd76e" opacity="0.9">Σ</text>
+<text x="-66" y="12" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="22" font-style="italic" fill="#f0c05a" opacity="0.8">π</text>
+<text x="24" y="61" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="21" font-style="italic" fill="#f7f2e7" opacity="0.55">λ</text>
+</g>
+<path d="M0 -30L26 -15V15L0 30L-26 15V-15Z" stroke="#f0c05a" stroke-width="1.2" fill="#0a0806" fill-opacity="0.9"/>
+<text x="0" y="5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="16" letter-spacing="0.5" fill="#f7f2e7">833</text>
+<circle cx="0" cy="0" r="52" stroke="#f0c05a" stroke-width="1" opacity="0.14"/>
+</g><g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="7.5" letter-spacing="2" fill="#f0c05a">
+<text x="28" y="250">OFFLINE / 62 CHAPTERS</text>
+<text x="530" y="250" text-anchor="end" fill="#f7f2e7" opacity="0.45">CBSE · JEE</text>
+</g>
+<rect x="1" y="220" width="558" height="52" fill="url(#aFade)"/>
+<g opacity="0.9"><g><rect x="-70" y="1" width="70" height="272" fill="url(#aScan)"/><animateTransform attributeName="transform" type="translate" from="0 0" to="630 0" dur="17s" repeatCount="indefinite"/></g></g>
+<text x="546" y="252" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="198" font-weight="800" fill="#f0c05a" opacity="0.055">05</text>
+<g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="9" letter-spacing="2.2">
+<text x="20" y="30" fill="#f0c05a">05 / FORMULAVAULT</text>
+<text x="540" y="30" fill="#f7f2e7" opacity="0.5" text-anchor="end">2026</text>
+</g>
+<g transform="translate(40 240)">
+<circle cx="0" cy="0" r="14" stroke="#f0c05a" stroke-width="1.1" fill="#0a0806" fill-opacity="0.75"/>
+<path d="M-3.4 -6L6 0L-3.4 6Z" fill="#f0c05a"/>
+<circle cx="0" cy="0" r="19" stroke="#f0c05a" stroke-width="1" opacity="0.18"><animate attributeName="opacity" values="0.1;0.32;0.1" dur="3.4s" repeatCount="indefinite"/></circle>
+</g>
+</g>
+<path d="M0 272H560" stroke="#d6c8ae" stroke-width="1" opacity="0.9"/>
+
+<rect x="0" y="0" width="560" height="2" fill="#9a6a10">
+<animate attributeName="width" from="0" to="560" dur="1.5s" fill="freeze"/>
+</rect>
+
+<g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace">
+<g transform="translate(24 292)">
+<rect x="0" y="0" width="98.6" height="22" rx="11" fill="#9a6a10" fill-opacity="0.08" stroke="#9a6a10" stroke-opacity="0.45"/>
+<circle cx="13" cy="11" r="2.6" fill="#9a6a10"><animate attributeName="opacity" values="1;0.25;1" dur="2.6s" repeatCount="indefinite"/></circle>
+<text x="23" y="14.5" font-size="8" letter-spacing="1.7" fill="#9a6a10">IN THEATERS</text>
+</g>
+<g font-size="9" letter-spacing="1.4" fill="#5d5345" text-anchor="end">
+<text x="536" y="307">JavaScript</text>
+</g>
+</g>
+
+<text x="24" y="356" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="38" font-weight="800" letter-spacing="0.3" fill="#171310">FormulaVault</text>
+<g font-family="Georgia,'Times New Roman',serif" font-size="16.5" font-style="italic" fill="#5d5345">
+<text x="24" y="386">833 formulas. Zero signal required.</text>
+</g>
+
+<path d="M24 430H536" stroke="#d6c8ae" stroke-width="1"/>
+<g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="9" letter-spacing="1.6">
+<text x="24" y="454" fill="#93866f">AADRIT PICTURES · FILE 05 / 06</text>
+<text x="536" y="454" fill="#9a6a10" text-anchor="end" letter-spacing="2">VIEW CASE ↗</text>
+</g>
+<g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="7.5" letter-spacing="2.2" fill="#93866f" opacity="0.6">
+<text x="24" y="481">EDUCATION · OFFLINE</text>
+<text x="536" y="481" text-anchor="end">2026 · COLOR</text>
+</g>
+</svg>

@@ -1,318 +1,229 @@
-﻿<div align="center">
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero.svg" alt="Aadrit — Full-Stack Engineer, Offensive Security, AI/ML" width="100%">
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/typing-light.svg">
-  <img src="./assets/typing.svg" alt="Roles: Full-Stack Developer, Offensive Security Researcher, AI / ML Explorer" width="100%">
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/badges-light.svg">
-  <img src="./assets/badges.svg" alt="Available for collaborations · India UTC+05:30 · Full-Stack · Security" width="100%">
-</picture>
-
-<br/>
-
-<a href="https://github.com/Aadrit1234"><img src="https://img.shields.io/badge/GitHub-Aadrit1234-a855f7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:aadritchandravanci23@gmail.com"><img src="https://img.shields.io/badge/Email-aadritchandravanci23-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/aadrit-chandravanci"><img src="https://img.shields.io/badge/LinkedIn-aadrit--chandravanci-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-<br/>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/146853350/171820313-2a3e4f4c-8a13-4b0f-9b8c-3c1c0f2b4e2a.gif" alt="GitHub profile contribution snake" width="100%"/>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/mark-light.svg">
-  <img src="./assets/mark.svg" alt="" width="110"/>
+  <img src="./assets/hero.svg" alt="Aadrit Chandravanci — a profile in four acts. Full-stack engineer, offensive security researcher, AI/ML explorer." width="100%">
 </picture>
 
 </div>
 
 <br/>
 
-## `> whoami`
+<p align="center">
+  <a href="https://github.com/AadritIND"><b>GITHUB</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/aadrit-chandravanci"><b>LINKEDIN</b></a> &nbsp;·&nbsp;
+  <a href="mailto:aadritchandravanci23@gmail.com"><b>EMAIL</b></a> &nbsp;·&nbsp;
+  <a href="https://aadrit-ind.vercel.app"><b>PORTFOLIO</b></a>
+</p>
 
-```text
-$ aadrit --intro
-┌──────────────────────────────────────────────────────────┐
-│  Aadrit · Full-Stack Engineer · Offensive Security · AI/ML
-│  Building products that actually ship.                   │
-└──────────────────────────────────────────────────────────┘
-```
+<img src="./assets/ticker.svg" alt="Now showing: full-stack engineer, security researcher, AI/ML explorer, product shipper, reverse engineer." width="100%">
 
-I build complete products end to end — the frontend, the backend, the
-infrastructure, and the parts nobody demos. My interest spans full-stack
-engineering, offensive security research, and applied AI/ML, with a habit of
-reverse engineering anything I use.
+<br/>
+<br/>
 
-Most of my work lands as a deployed product rather than a demo: a file
-conversion engine that preserves layout, an offline study app for JEE and CBSE
-students, a self-hosted print server, an E2E-encrypted collaboration suite, and
-a prompt-engineering tool that runs against five different AI backends.
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/seal-ink.png">
+  <img src="./assets/seal-gold.png" width="76" alt="A gold dragon mark — Aadrit's studio seal">
+</picture>
+
+<sub><b>A ONE-PERSON STUDIO</b> &nbsp;·&nbsp; EST. 2025 &nbsp;·&nbsp; INDIA</sub>
+
+</div>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg">
-  <img src="./assets/terminal.svg" alt="Animated terminal: stack and focus" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/act-1-light.svg">
+  <img src="./assets/act-1.svg" alt="Act I — The Protagonist: who, where, why." width="100%">
 </picture>
 
-<br/>
+I'm **Aadrit Chandravanci**, a full-stack engineer from India. I like the whole problem: the interface, the API, the schema, the deploy, the monitoring, and the part where somebody tries to break it.
 
-## `> stack`
+Most of what I make ends up deployed rather than described — a vault for secrets, a study timer that keeps a room in sync, encrypted rooms for collaboration, a converter that refuses to lose your formatting, a formula library that works with no signal, a print server that turns a browser into a print shop.
 
-<table>
-<tr><td width="50%" valign="top">
+I care about the unglamorous parts: fast loads, honest errors, accessible defaults, and data that stays where it belongs. Security is the same instinct from the other side — reverse engineering, protocol analysis, and finding the edge case nobody demoed.
 
-**Languages &amp; Runtimes**
-
-```text
-JavaScript · TypeScript · Python · HTML · CSS
-Node.js · Bun · Vite · React · Fastify · Postgres
-Docker · Make · Bash
-```
-
-**Frontend**
-
-- React 19 + Vite 8, TypeScript end to end
-- Framer Motion for motion, Tailwind for layout discipline
-- Three.js via `@react-three/fiber` — real 3D, not sprites
-
-**Backend &amp; Infra**
-
-- Fastify APIs, Postgres, WebRTC peer-to-peer transfer
-- E2E encryption with keys that never leave the client
-- Docker, Makefiles, self-hosted services on Raspberry Pi and local hardware
-
-</td><td width="50%" valign="top">
-
-**AI / ML**
-
-- LLM apps across five providers: OpenRouter, Gemini, Anthropic, Ollama, local
-- Prompt engineering as a discipline — constraints, output format, edge cases
-- Bring-your-own-key architectures; user keys never touch a server
-- Retrieval and structured generation for study and tooling products
-
-**Security**
-
-- Offensive research: reverse engineering, protocol analysis, exploitation
-- E2E encryption design for real-time collaboration
-- Security-conscious defaults: nothing administrative reachable over the network
-- Self-hosted infrastructure with real access control and licence gating
-
-**Tooling**
-
-- Vite, Playwright, Postman, VS Code
-- Linux, Proxmox, Tailscale
-- CI via GitHub Actions
-
-</td></tr>
-</table>
+- **Based** — India · UTC+05:30
+- **Focus** — Full-stack product engineering, applied AI, offensive security
+- **Currently** — **Aegis**, a local-first desktop vault for passwords, API keys and secrets
+- **Open to** — Collaborations, hard problems, and good arguments about architecture
+- **Elsewhere** — [Portfolio](https://aadrit-ind.vercel.app) · [LinkedIn](https://www.linkedin.com/in/aadrit-chandravanci) · [Email](mailto:aadritchandravanci23@gmail.com)
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/orbit3d-light.svg">
-  <img src="./assets/orbit3d.svg" alt="3D orbital diagram of the technology stack" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/act-2-light.svg">
+  <img src="./assets/act-2.svg" alt="Act II — Selected Work: six products, built end to end." width="100%">
 </picture>
 
-<br/>
-
-## `> projects`
+Six products, built end to end. Not concepts, not screenshots of someone else's template — interfaces, APIs, data models, deploys, and the unglamorous edge cases that decide whether a thing actually works.
 
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
 
-<a href="https://github.com/Aadrit1234/filemorph"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-filemorph-light.svg"><img src="./assets/project-filemorph.svg" alt="filemorph" width="100%"></picture></a>
+<a href="https://github.com/AadritIND/Aegis">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/poster-aegis-light.svg">
+    <img src="./assets/poster-aegis.svg" alt="Aegis film poster — a vault that looks like glass and behaves like a bunker. Security, desktop, TypeScript." width="96%">
+  </picture>
+</a>
 
-[**filemorph**](https://github.com/Aadrit1234/filemorph) ·
-[Live](https://filemorph-dusky.vercel.app)
-
-Free online file converter and audio transcriber. Converts documents, images and
-audio between formats with full content preservation — every pixel, table, font
-and image stays where it belongs. LibreOffice, pdf2docx and Sharp, plus
-English/Hindi audio transcription.
+<sub><a href="https://github.com/AadritIND/Aegis">repo</a> &nbsp;·&nbsp; local-first</sub>
 
 </td>
 <td width="50%" valign="top" align="center">
 
-<a href="https://github.com/Aadrit1234/FormulaVault"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-FormulaVault-light.svg"><img src="./assets/project-FormulaVault.svg" alt="FormulaVault" width="100%"></picture></a>
+<a href="https://github.com/AadritIND/focusFlow">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/poster-focusflow-light.svg">
+    <img src="./assets/poster-focusflow.svg" alt="focusFlow film poster — study together across devices and keep the history. Productivity, realtime, TypeScript." width="96%">
+  </picture>
+</a>
 
-[**FormulaVault**](https://github.com/Aadrit1234/FormulaVault) ·
-[Live](https://formulav.vercel.app)
-
-Offline-first study app for CBSE Class 11/12 and JEE. 833 formula cards across 62
-chapters with a typo-tolerant universal search, printable revision sheets, and a
-teaching AI tutor that runs on your own free API key. Zero frameworks, zero build
-step.
+<sub><a href="https://github.com/AadritIND/focusFlow">repo</a> &nbsp;·&nbsp; <a href="https://focussf.vercel.app">live</a></sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
 
-<a href="https://github.com/Aadrit1234/printbridge"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-printbridge-light.svg"><img src="./assets/project-printbridge.svg" alt="printbridge" width="100%"></picture></a>
+<a href="https://github.com/AadritIND/conduit">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/poster-conduit-light.svg">
+    <img src="./assets/poster-conduit.svg" alt="conduit film poster — rooms where the server never learns what was said. Privacy, realtime, TypeScript." width="96%">
+  </picture>
+</a>
 
-[**printbridge**](https://github.com/Aadrit1234/printbridge) ·
-[Live](https://print-pi-three.vercel.app)
-
-Self-hosted print server for workspaces and shops. Upload from anywhere, preview
-exactly what prints, then print on a Wi-Fi or USB printer unattended. Two public
-sites, one printer, three desktop apps for the machine, the shop and the client.
+<sub><a href="https://github.com/AadritIND/conduit">repo</a> &nbsp;·&nbsp; <a href="https://conduit-liard.vercel.app">live</a></sub>
 
 </td>
 <td width="50%" valign="top" align="center">
 
-<a href="https://github.com/Aadrit1234/conduit"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-conduit-light.svg"><img src="./assets/project-conduit.svg" alt="conduit" width="100%"></picture></a>
+<a href="https://github.com/AadritIND/filemorph">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/poster-filemorph-light.svg">
+    <img src="./assets/poster-filemorph.svg" alt="filemorph film poster — convert the file and keep every pixel, table and font. Tools, conversion, JavaScript." width="96%">
+  </picture>
+</a>
 
-[**conduit**](https://github.com/Aadrit1234/conduit) ·
-[Live](https://conduit-liard.vercel.app)
-
-End-to-end encrypted real-time collaboration rooms. Ephemeral or permanent
-spaces for chat, file and folder sharing, and WebRTC peer-to-peer transfer.
-Vite + React 19 + Fastify + Postgres.
+<sub><a href="https://github.com/AadritIND/filemorph">repo</a> &nbsp;·&nbsp; <a href="https://filemorph-dusky.vercel.app">live</a></sub>
 
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
-<a href="https://github.com/Aadrit1234/prompt-forge"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/project-prompt-forge-light.svg"><img src="./assets/project-prompt-forge.svg" alt="prompt-forge" width="47%"></picture></a>
+<a href="https://github.com/AadritIND/FormulaVault">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/poster-formulavault-light.svg">
+    <img src="./assets/poster-formulavault.svg" alt="FormulaVault film poster — 833 formulas, zero signal required. Education, offline, JavaScript." width="96%">
+  </picture>
+</a>
 
-[**prompt-forge**](https://github.com/Aadrit1234/prompt-forge) ·
-[Live](https://prompt-forge-beige-ten.vercel.app)
+<sub><a href="https://github.com/AadritIND/FormulaVault">repo</a> &nbsp;·&nbsp; <a href="https://formulav.vercel.app">live</a></sub>
 
-Describe the task, get the prompt that actually works. Applies real
-prompt-engineering techniques — role and context binding, explicit constraints,
-output format, edge-case handling — only where they genuinely help. Five AI
-backends with per-request model selection.
+</td>
+<td width="50%" valign="top" align="center">
+
+<a href="https://github.com/AadritIND/printbridge">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/poster-printbridge-light.svg">
+    <img src="./assets/poster-printbridge.svg" alt="printbridge film poster — print from anywhere and walk over when it is done. Self-hosted, hardware, JavaScript." width="96%">
+  </picture>
+</a>
+
+<sub><a href="https://github.com/AadritIND/printbridge">repo</a> &nbsp;·&nbsp; <a href="https://print-pi-three.vercel.app">live</a></sub>
 
 </td>
 </tr>
 </table>
 
+Five of the six above have public demos. **Aegis** is local-first by design.
+
+<p align="center"><sub><b>ALSO IN THE REEL</b></sub></p>
+
+- [**prompt-forge**](https://github.com/AadritIND/prompt-forge) — describe the task, get the prompt that actually works. Five AI backends, one clean interface. ([live](https://prompt-forge-beige-ten.vercel.app))
+- [**Formula-1**](https://github.com/AadritIND/Formula-1) — APEX, a multi-backend Formula 1 fan site built for race weekends. ([live](https://formularace.vercel.app))
+- [**Portfolio**](https://github.com/AadritIND/Portfolio) — the other front door: aadrit-ind.vercel.app. ([live](https://aadrit-ind.vercel.app))
+
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/timeline-light.svg">
-  <img src="./assets/timeline.svg" alt="Build log: recent project activity" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/act-3-light.svg">
+  <img src="./assets/act-3.svg" alt="Act III — The Craft: tools of the trade." width="100%">
 </picture>
 
-<br/>
+The short version: TypeScript and Python, React on the front, Node and Fastify with Postgres or Cloudflare Workers and D1 behind, Docker and Linux underneath — and an unreasonable amount of curiosity applied to the parts that do not fit.
 
-## `> telemetry`
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/card-light.svg">
-  <img src="./assets/card.svg" alt="Profile telemetry: commits, repositories, stars, languages" width="100%">
-</picture>
+> Interfaces should feel inevitable. Infrastructure should feel invisible. Security should feel boring.
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/pulse-light.svg">
-  <img src="./assets/pulse.svg" alt="Contribution activity pulse, generated from real commit history" width="100%">
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/matrix-light.svg">
-  <img src="./assets/matrix.svg" alt="" width="100%">
-</picture>
-
-<br/>
-
-## `> 3d`
-
-<br/>
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/cube3d-light.svg">
-  <img src="./assets/cube3d.svg" alt="Rotating 3D wireframe cube" width="100%">
-</picture>
-
-**Cube** — 3D wireframe rotation rendered as animated SVG paths
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/globe-light.svg">
-  <img src="./assets/globe.svg" alt="Rotating 3D wireframe globe" width="100%">
-</picture>
-
-**Globe** — a projected sphere with meridian and latitude loops
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/scene-light.svg">
-  <img src="./assets/scene.svg" alt="3D scene: orbiting polyhedra, cube and globe" width="100%">
-</picture>
-
-**Scene** — three projected solids, depth-sorted per frame
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `> notes`
-
-- Everything animated in this README is **generated SVG** — no JavaScript, no
-  external fonts, no tracking pixels. The 3D pieces are real perspective
-  projections baked into path data, so they animate inside GitHub's renderer.
-- Dark and light variants are separate assets, switched with
-  `<picture>` + `prefers-color-scheme`, so the profile matches your theme.
-- The build pipeline lives in `scripts/` — run `node scripts/build.mjs` to
-  regenerate every asset from live GitHub data, then
-  `node scripts/probe.mjs assets` to validate them in a real browser.
-- The contribution grid above is generated by
-  [Platane/snk](https://github.com/Platane/snk) on a nightly schedule.
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/waves-light.svg">
-  <img src="./assets/waves.svg" alt="" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/credits-light.svg">
+  <img src="./assets/credits.svg" alt="Technical credits — languages, interface, systems, security and AI." width="100%">
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
-  <img src="./assets/footer.svg" alt="Thanks for visiting" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/act-4-light.svg">
+  <img src="./assets/act-4.svg" alt="Act IV — The Numbers: receipts, not vibes." width="100%">
 </picture>
+
+These are not vanity metrics. They are pulled from the GitHub API at build time and baked into the artwork — commits across every public repo, live builds you can click, and a year of activity drawn as a film strip.
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/numbers-light.svg">
+  <img src="./assets/numbers.svg" alt="Box office — commits, public repositories, live builds and languages." width="100%">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footage-light.svg">
+  <img src="./assets/footage.svg" alt="Footage log — a year of contributions drawn as a film strip." width="100%">
+</picture>
+
+<br/>
+
+<details>
+<summary><b>How this page is made</b></summary>
+
+<br/>
+
+Every frame is generated SVG: no JavaScript, no external fonts, no tracking pixels. The type is system Helvetica, Georgia and your own mono font; the grain is `feTurbulence`; the light is a few gradients and a lot of restraint.
+
+Dark and light variants switch with `prefers-color-scheme`. The dragon seal is derived from `logo.jpg` and keyed to transparency. The build reads the GitHub API through the `gh` CLI, caches it in `data/cache.json`, and writes every asset with `node scripts/build.mjs`. `node scripts/probe.mjs` then parses the result in a real browser and checks for overflow, dangling references and broken animation timing.
+
+The numbers are regenerated from real data. The cut changes as the work does.
+
+</details>
 
 <br/>
 
 <div align="center">
 
-**Thanks for visiting.** Built with too much attention to detail.
+<b>OPEN TO COLLABORATIONS · HARD PROBLEMS · WORK THAT SHIPS</b>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aadrit1234-a855f7?style=flat-square&logo=github&logoColor=white)](https://github.com/Aadrit1234)
-[![Email](https://img.shields.io/badge/Email-aadritchandravanci23-22d3ee?style=flat-square&logo=gmail&logoColor=white)](mailto:aadritchandravanci23@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aadrit--chandravanci-0ea5e9?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadrit-chandravanci)
+<br/>
+<br/>
+
+<a href="https://github.com/AadritIND">GitHub</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/aadrit-chandravanci">LinkedIn</a> &nbsp;·&nbsp;
+<a href="mailto:aadritchandravanci23@gmail.com">Email</a> &nbsp;·&nbsp;
+<a href="https://aadrit-ind.vercel.app">Portfolio</a>
 
 </div>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
+  <img src="./assets/footer.svg" alt="End credits — Fin. Thanks for watching. Now go build something." width="100%">
+</picture>

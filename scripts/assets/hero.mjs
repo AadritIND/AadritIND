@@ -14,7 +14,7 @@ import {
 } from '../lib/softpop.mjs';
 
 const W = 1400;
-const H = 560;
+const H = 620;
 
 const STAR =
   'M0 -96 C7 -48 18 -22 44 -15 L88 -5 C98 -3 98 3 88 5 L44 15 C18 22 7 48 0 96 C-7 48 -18 22 -44 15 L-88 5 C-98 3 -98 -3 -88 -5 L-44 -15 C-18 -22 -7 -48 0 -96 Z';
@@ -201,7 +201,7 @@ export function hero(themeId = 'dark') {
 <ellipse cx="1278" cy="112" rx="232" ry="192" fill="url(#coralGlow)">
   <animate attributeName="opacity" values="0.8;1;0.8" dur="9s" begin="1.2s" repeatCount="indefinite"/>
 </ellipse>
-<ellipse cx="1270" cy="500" rx="206" ry="152" fill="url(#acidGlow)">
+<ellipse cx="1270" cy="540" rx="206" ry="140" fill="url(#acidGlow)">
   <animate attributeName="opacity" values="0.7;1;0.7" dur="11s" begin="2.4s" repeatCount="indefinite"/>
 </ellipse>
 
@@ -235,13 +235,16 @@ export function hero(themeId = 'dark') {
 
 <text x="64" y="156" font-family="${FONT_MONO}" font-size="10.5" letter-spacing="3.2" fill="${t.muted}">HEY, I'M</text>
 
-<text x="70" y="320" font-family="${FONT_DISPLAY}" font-weight="900" font-size="172" letter-spacing="-7" fill="${t.nameShadow}" opacity="0.92">AADRiT</text>
-<text x="62" y="310" font-family="${FONT_DISPLAY}" font-weight="900" font-size="172" letter-spacing="-7" fill="${t.ink}">AADRiT</text>
+<g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;4 6;0 0" dur="7s" repeatCount="indefinite"/>
+  <text x="70" y="320" font-family="${FONT_DISPLAY}" font-weight="900" font-size="176" letter-spacing="-7" fill="${t.nameShadow}" opacity="0.92">AADRiT</text>
+</g>
+<text x="62" y="310" font-family="${FONT_DISPLAY}" font-weight="900" font-size="176" letter-spacing="-7" fill="${t.ink}">AADRiT</text>
 
-<text x="64" y="382" font-family="${FONT_SANS}" font-weight="600" font-size="30" letter-spacing="-0.4" fill="${t.ink}">Useful things,</text>
-<text x="64" y="434" font-family="${FONT_SERIF}" font-style="italic" font-size="47" letter-spacing="-0.8" fill="${t.coral}">slightly unexpected.</text>
+<text x="64" y="382" font-family="${FONT_SANS}" font-weight="600" font-size="31" letter-spacing="-0.4" fill="${t.ink}">Useful things,</text>
+<text x="64" y="434" font-family="${FONT_SERIF}" font-style="italic" font-size="48" letter-spacing="-0.8" fill="${t.coral}">slightly unexpected.</text>
 
-<g transform="translate(64 458)" filter="url(#pillShadow)">
+<g transform="translate(64 484)" filter="url(#pillShadow)">
   <rect y="5" width="196" height="42" rx="21" fill="${t.acidDark}"/>
   <rect width="196" height="42" rx="21" fill="url(#acidClay)" stroke="${t.acidLight}" stroke-opacity="0.55"/>
   <ellipse cx="98" cy="5" rx="78" ry="10" fill="#ffffff" opacity="0.22"/>
@@ -250,10 +253,10 @@ export function hero(themeId = 'dark') {
   </circle>
   <text x="35" y="25" font-family="${FONT_MONO}" font-size="9.5" letter-spacing="1.6" fill="${t.ink}">OPEN TO COLLABS</text>
 </g>
-<text x="282" y="485" font-family="${FONT_MONO}" font-size="9.5" letter-spacing="1.7" fill="${t.muted}">LOCAL-FIRST · REALTIME · SECURITY</text>
+<text x="282" y="511" font-family="${FONT_MONO}" font-size="9.5" letter-spacing="1.7" fill="${t.muted}">LOCAL-FIRST · REALTIME · SECURITY</text>
 
-<text x="64" y="536" font-family="${FONT_MONO}" font-size="8.5" letter-spacing="1.7" fill="${t.muted}">INDIA · UTC+05:30</text>
-<text x="1336" y="536" text-anchor="end" font-family="${FONT_MONO}" font-size="8.5" letter-spacing="1.7" fill="${t.muted}">AADRIT-IND.VERCEL.APP</text>
+<text x="64" y="596" font-family="${FONT_MONO}" font-size="8.5" letter-spacing="1.7" fill="${t.muted}">INDIA · UTC+05:30</text>
+<text x="1336" y="596" text-anchor="end" font-family="${FONT_MONO}" font-size="8.5" letter-spacing="1.7" fill="${t.muted}">AADRIT-IND.VERCEL.APP</text>
 
 <g transform="translate(824 104) rotate(-7 210 130)">
   <g>
@@ -299,6 +302,15 @@ ${cube}
     <ellipse cx="-24" cy="-30" rx="27" ry="15" transform="rotate(-28 -24 -30)" fill="#ffffff" opacity="0.5" filter="url(#tinyBlur)"/>
     <circle cx="-33" cy="-42" r="6" fill="#ffffff" opacity="0.85"/>
     <path d="M-54 30 C-28 54 39 54 57 24" fill="none" stroke="${t.lilac}" stroke-opacity="0.45" stroke-width="2"/>
+  </g>
+</g>
+
+<g transform="translate(1080 536)">
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="7s" begin="0.6s" repeatCount="indefinite"/>
+    <ellipse rx="88" ry="24" fill="none" stroke="url(#ring)" stroke-width="12" opacity="0.75"/>
+    <ellipse rx="70" ry="16" fill="none" stroke="${t.lilac}" stroke-opacity="0.35" stroke-width="2"/>
+    <circle cx="88" cy="0" r="5" fill="${t.acid}"/>
   </g>
 </g>
 

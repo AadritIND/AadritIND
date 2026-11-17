@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="340" viewBox="0 0 1400 340" fill="none" role="img" aria-label="How Aadrit works — build, break, ship. Three floating glass cards with 3D cube, cracked shield and paper-plane icons.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="390" viewBox="0 0 1400 390" fill="none" role="img" aria-label="How Aadrit works — build, break, ship. Three floating glass cards with 3D cube, cracked shield and paper-plane icons.">
 <title>How Aadrit works — build, break, ship. Three floating glass cards with 3D cube, cracked shield and paper-plane icons.</title>
 <defs>
 <radialGradient id="trayGlow" cx="0.5" cy="0.5" r="0.65"><stop offset="0" stop-color="#a98cff" stop-opacity="0.2"/><stop offset="0.6" stop-color="#a98cff" stop-opacity="0.05"/><stop offset="1" stop-color="#a98cff" stop-opacity="0"/></radialGradient>
@@ -11,34 +11,43 @@
 <radialGradient id="shieldBody" cx="0.26" cy="0.18" r="0.9"><stop offset="0" stop-color="#ffc1b0"/><stop offset="0.5" stop-color="#ff8d75"/><stop offset="1" stop-color="#d24d36"/></radialGradient>
 <linearGradient id="planeMain" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#efffb8"/><stop offset="0.5" stop-color="#d7ff61"/><stop offset="1" stop-color="#9cbc32"/></linearGradient>
 <linearGradient id="planeFold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d7ff61"/><stop offset="1" stop-color="#9cbc32"/></linearGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.55"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
 <filter id="cardShadow" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#000000" flood-opacity="0.5"/></filter>
 <filter id="iconShadow" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="3" dy="9" stdDeviation="10" flood-color="#000000" flood-opacity="0.45"/></filter>
 <filter id="tinyBlur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4"/></filter>
-<clipPath id="clip0"><rect width="390" height="256" rx="30"/></clipPath>
-<clipPath id="clip1"><rect width="390" height="256" rx="30"/></clipPath>
-<clipPath id="clip2"><rect width="390" height="256" rx="30"/></clipPath>
+<clipPath id="clip0"><rect width="414" height="286" rx="32"/></clipPath>
+<clipPath id="clip1"><rect width="414" height="286" rx="32"/></clipPath>
+<clipPath id="clip2"><rect width="414" height="286" rx="32"/></clipPath>
 </defs>
-<ellipse cx="700" cy="170" rx="640" ry="168" fill="url(#trayGlow)">
+<ellipse cx="700" cy="195" rx="650" ry="185" fill="url(#trayGlow)">
   <animate attributeName="opacity" values="0.65;1;0.65" dur="13s" repeatCount="indefinite"/>
 </ellipse>
 
 
-<g transform="translate(64 42) rotate(-2.4 195 128)">
+<g transform="translate(40 48) rotate(-2.4 207 143)">
   <g>
     <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="8s" begin="0s" repeatCount="indefinite"/>
-    <rect width="390" height="256" rx="30" fill="url(#cardBuild)" stroke="#6f5a8d" stroke-opacity="0.42" filter="url(#cardShadow)"/>
+    <rect width="414" height="286" rx="32" fill="url(#cardBuild)" stroke="#6f5a8d" stroke-opacity="0.42" filter="url(#cardShadow)"/>
     <g clip-path="url(#clip0)">
-      <circle cx="344" cy="34" r="105" fill="#a98cff" opacity="0.1"/>
-      <path d="M-40 286 L126 0 H206 L28 286 Z" fill="#ffffff" opacity="0.05"/>
-      <path d="M26 2 H364" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.2" stroke-linecap="round"/>
+      <circle cx="364" cy="38" r="115" fill="#a98cff" opacity="0.1">
+        <animate attributeName="opacity" values="0.07;0.16;0.07" dur="7s" begin="0s" repeatCount="indefinite"/>
+      </circle>
+      <path d="M-40 330 L140 0 H228 L48 330 Z" fill="#ffffff" opacity="0.05"/>
+      <g opacity="0.38">
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="-320 0;520 0;520 0" dur="9s" begin="0.2s" repeatCount="indefinite"/>
+          <rect x="-80" y="-110" width="60" height="520" fill="url(#sheen)" transform="rotate(18 0 0)"/>
+        </g>
+      </g>
+      <path d="M26 2 H386" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.2" stroke-linecap="round"/>
 
       <g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="8.5" letter-spacing="1.8" fill="#b0a6c0">
         <text x="28" y="37">01</text>
-        <text x="362" y="37" text-anchor="end">MODE</text>
+        <text x="386" y="37" text-anchor="end">MODE</text>
       </g>
-      <line x1="28" y1="52" x2="362" y2="52" stroke="#332a42" stroke-opacity="0.8"/>
+      <line x1="28" y1="52" x2="386" y2="52" stroke="#332a42" stroke-opacity="0.8"/>
 
-      <g transform="translate(274 48) scale(0.74)" filter="url(#iconShadow)">
+      <g transform="translate(292 52) scale(0.78)" filter="url(#iconShadow)">
     <ellipse cx="55" cy="133" rx="46" ry="10" fill="#000000" opacity="0.46" filter="url(#tinyBlur)"/>
     <g>
       <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="6.5s" begin="0.5s" repeatCount="indefinite"/>
@@ -50,40 +59,48 @@
     </g>
   </g>
 
-      <text x="28" y="190" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="44" letter-spacing="-2" fill="#f7f1e8">BUILD</text>
-      <text x="28" y="216" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.1" fill="#b0a6c0">interface, api, data</text>
-      <line x1="28" y1="236" x2="362" y2="236" stroke="#332a42" stroke-opacity="0.7"/>
-      <circle cx="33" cy="248" r="2.5" fill="#4ee3a0">
+      <text x="28" y="212" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="48" letter-spacing="-2" fill="#f7f1e8">BUILD</text>
+      <text x="28" y="238" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13.5" letter-spacing="0.1" fill="#b0a6c0">interface, api, data</text>
+      <line x1="28" y1="258" x2="386" y2="258" stroke="#332a42" stroke-opacity="0.7"/>
+      <circle cx="33" cy="270" r="2.5" fill="#4ee3a0">
         <animate attributeName="opacity" values="1;0.35;1" dur="5s" begin="0.4s" repeatCount="indefinite"/>
       </circle>
-      <text x="42" y="251" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="7.5" letter-spacing="1.5" fill="#b0a6c0">IN THE LOOP</text>
-      <text x="362" y="251" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="7.5" letter-spacing="1.5" fill="#b0a6c0">AADRiT*</text>
+      <text x="42" y="273" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="7.5" letter-spacing="1.5" fill="#b0a6c0">IN THE LOOP</text>
+      <text x="386" y="273" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="7.5" letter-spacing="1.5" fill="#b0a6c0">AADRiT*</text>
     </g>
   </g>
 </g>
 
-<text x="480" y="176" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="18" fill="#9288a4">
+<text x="473" y="196" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="18" fill="#9288a4">
   <animate attributeName="opacity" values="0.35;0.9;0.35" dur="5s" repeatCount="indefinite"/>
   →
 </text>
 
 
-<g transform="translate(505 42) rotate(1.3 195 128)">
+<g transform="translate(493 48) rotate(1.3 207 143)">
   <g>
     <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="8s" begin="0.6s" repeatCount="indefinite"/>
-    <rect width="390" height="256" rx="30" fill="url(#cardBreak)" stroke="#6f5a8d" stroke-opacity="0.42" filter="url(#cardShadow)"/>
+    <rect width="414" height="286" rx="32" fill="url(#cardBreak)" stroke="#6f5a8d" stroke-opacity="0.42" filter="url(#cardShadow)"/>
     <g clip-path="url(#clip1)">
-      <circle cx="344" cy="34" r="105" fill="#ff8d75" opacity="0.1"/>
-      <path d="M-40 286 L126 0 H206 L28 286 Z" fill="#ffffff" opacity="0.05"/>
-      <path d="M26 2 H364" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.2" stroke-linecap="round"/>
+      <circle cx="364" cy="38" r="115" fill="#ff8d75" opacity="0.1">
+        <animate attributeName="opacity" values="0.07;0.16;0.07" dur="7s" begin="0.6s" repeatCount="indefinite"/>
+      </circle>
+      <path d="M-40 330 L140 0 H228 L48 330 Z" fill="#ffffff" opacity="0.05"/>
+      <g opacity="0.38">
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="-320 0;520 0;520 0" dur="9s" begin="0.8s" repeatCount="indefinite"/>
+          <rect x="-80" y="-110" width="60" height="520" fill="url(#sheen)" transform="rotate(18 0 0)"/>
+        </g>
+      </g>
+      <path d="M26 2 H386" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.2" stroke-linecap="round"/>
 
       <g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="8.5" letter-spacing="1.8" fill="#b0a6c0">
         <text x="28" y="37">02</text>
-        <text x="362" y="37" text-anchor="end">MODE</text>
+        <text x="386" y="37" text-anchor="end">MODE</text>
       </g>
-      <line x1="28" y1="52" x2="362" y2="52" stroke="#332a42" stroke-opacity="0.8"/>
+      <line x1="28" y1="52" x2="386" y2="52" stroke="#332a42" stroke-opacity="0.8"/>
 
-      <g transform="translate(278 44) scale(0.76)" filter="url(#iconShadow)">
+      <g transform="translate(296 48) scale(0.8)" filter="url(#iconShadow)">
     <g>
       <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="7.2s" begin="0.8s" repeatCount="indefinite"/>
       <path d="M50 4 L96 20 V50 C96 80 76 98 50 112 C24 98 4 80 4 50 V20 Z" transform="translate(4 7)" fill="#d24d36" opacity="0.8"/>
@@ -93,40 +110,48 @@
     </g>
   </g>
 
-      <text x="28" y="190" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="44" letter-spacing="-2" fill="#f7f1e8">BREAK</text>
-      <text x="28" y="216" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.1" fill="#b0a6c0">threat model, test, harden</text>
-      <line x1="28" y1="236" x2="362" y2="236" stroke="#332a42" stroke-opacity="0.7"/>
-      <circle cx="33" cy="248" r="2.5" fill="#4ee3a0">
+      <text x="28" y="212" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="48" letter-spacing="-2" fill="#f7f1e8">BREAK</text>
+      <text x="28" y="238" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13.5" letter-spacing="0.1" fill="#b0a6c0">threat model, test, harden</text>
+      <line x1="28" y1="258" x2="386" y2="258" stroke="#332a42" stroke-opacity="0.7"/>
+      <circle cx="33" cy="270" r="2.5" fill="#4ee3a0">
         <animate attributeName="opacity" values="1;0.35;1" dur="5s" begin="1s" repeatCount="indefinite"/>
       </circle>
-      <text x="42" y="251" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="7.5" letter-spacing="1.5" fill="#b0a6c0">IN THE LOOP</text>
-      <text x="362" y="251" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="7.5" letter-spacing="1.5" fill="#b0a6c0">AADRiT*</text>
+      <text x="42" y="273" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="7.5" letter-spacing="1.5" fill="#b0a6c0">IN THE LOOP</text>
+      <text x="386" y="273" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="7.5" letter-spacing="1.5" fill="#b0a6c0">AADRiT*</text>
     </g>
   </g>
 </g>
 
-<text x="921" y="176" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="18" fill="#9288a4">
+<text x="927" y="196" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="18" fill="#9288a4">
   <animate attributeName="opacity" values="0.9;0.35;0.9" dur="5s" begin="0.7s" repeatCount="indefinite"/>
   →
 </text>
 
 
-<g transform="translate(946 42) rotate(-1.5 195 128)">
+<g transform="translate(946 48) rotate(-1.5 207 143)">
   <g>
     <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="8s" begin="1.2s" repeatCount="indefinite"/>
-    <rect width="390" height="256" rx="30" fill="url(#cardShip)" stroke="#6f5a8d" stroke-opacity="0.42" filter="url(#cardShadow)"/>
+    <rect width="414" height="286" rx="32" fill="url(#cardShip)" stroke="#6f5a8d" stroke-opacity="0.42" filter="url(#cardShadow)"/>
     <g clip-path="url(#clip2)">
-      <circle cx="344" cy="34" r="105" fill="#d7ff61" opacity="0.1"/>
-      <path d="M-40 286 L126 0 H206 L28 286 Z" fill="#ffffff" opacity="0.05"/>
-      <path d="M26 2 H364" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.2" stroke-linecap="round"/>
+      <circle cx="364" cy="38" r="115" fill="#d7ff61" opacity="0.1">
+        <animate attributeName="opacity" values="0.07;0.16;0.07" dur="7s" begin="1.2s" repeatCount="indefinite"/>
+      </circle>
+      <path d="M-40 330 L140 0 H228 L48 330 Z" fill="#ffffff" opacity="0.05"/>
+      <g opacity="0.38">
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="-320 0;520 0;520 0" dur="9s" begin="1.4s" repeatCount="indefinite"/>
+          <rect x="-80" y="-110" width="60" height="520" fill="url(#sheen)" transform="rotate(18 0 0)"/>
+        </g>
+      </g>
+      <path d="M26 2 H386" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.2" stroke-linecap="round"/>
 
       <g font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="8.5" letter-spacing="1.8" fill="#b0a6c0">
         <text x="28" y="37">03</text>
-        <text x="362" y="37" text-anchor="end">MODE</text>
+        <text x="386" y="37" text-anchor="end">MODE</text>
       </g>
-      <line x1="28" y1="52" x2="362" y2="52" stroke="#332a42" stroke-opacity="0.8"/>
+      <line x1="28" y1="52" x2="386" y2="52" stroke="#332a42" stroke-opacity="0.8"/>
 
-      <g transform="translate(272 56) scale(0.78)" filter="url(#iconShadow)">
+      <g transform="translate(290 60) scale(0.84)" filter="url(#iconShadow)">
     <g>
       <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="6.8s" begin="1.1s" repeatCount="indefinite"/>
       <path d="M0 44 L104 0 L56 70 L42 46 Z" fill="url(#planeMain)" stroke="#ffffff" stroke-opacity="0.4" stroke-width="1.4"/>
@@ -136,14 +161,14 @@
     </g>
   </g>
 
-      <text x="28" y="190" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="44" letter-spacing="-2" fill="#f7f1e8">SHIP</text>
-      <text x="28" y="216" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12.5" letter-spacing="0.1" fill="#b0a6c0">deploy, watch, iterate</text>
-      <line x1="28" y1="236" x2="362" y2="236" stroke="#332a42" stroke-opacity="0.7"/>
-      <circle cx="33" cy="248" r="2.5" fill="#4ee3a0">
+      <text x="28" y="212" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="48" letter-spacing="-2" fill="#f7f1e8">SHIP</text>
+      <text x="28" y="238" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13.5" letter-spacing="0.1" fill="#b0a6c0">deploy, watch, iterate</text>
+      <line x1="28" y1="258" x2="386" y2="258" stroke="#332a42" stroke-opacity="0.7"/>
+      <circle cx="33" cy="270" r="2.5" fill="#4ee3a0">
         <animate attributeName="opacity" values="1;0.35;1" dur="5s" begin="1.6s" repeatCount="indefinite"/>
       </circle>
-      <text x="42" y="251" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="7.5" letter-spacing="1.5" fill="#b0a6c0">IN THE LOOP</text>
-      <text x="362" y="251" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="7.5" letter-spacing="1.5" fill="#b0a6c0">AADRiT*</text>
+      <text x="42" y="273" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="7.5" letter-spacing="1.5" fill="#b0a6c0">IN THE LOOP</text>
+      <text x="386" y="273" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','Courier New',monospace" font-size="7.5" letter-spacing="1.5" fill="#b0a6c0">AADRiT*</text>
     </g>
   </g>
 </g>
